@@ -6,3 +6,8 @@ venv/
 
 # environnement virtuel
 backend/env/
+
+# Large data files
+backend/data/*.csv
+backend/data/*.json
+backend/data/*.parquet
