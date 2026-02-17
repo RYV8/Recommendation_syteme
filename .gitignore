@@ -1,5 +1,8 @@
 
-/env 
+.env
+env/
+venv/
+.venv/
+
 # environnement virtuel
-/home/romaric/Documents/IA/recommendation_systems/backend/env
-/.env
+backend/env/
